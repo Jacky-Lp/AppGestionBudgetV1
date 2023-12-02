@@ -126,6 +126,7 @@ namespace AppGestionBudget.Service
             //Avec la Bdd
             User theo = AddUser(Db.Users.First(x => x.name == "théo"));
             User leo = AddUser(Db.Users.First(x => x.name == "léo"));
+            User fred = AddUser(Db.Users.First(x => x.id == 3));
 
             var play = AddExpenses(Db.Expenses.First(x => x.id == 1));
             var eat = AddExpenses(Db.Expenses.First(x => x.id == 2));
@@ -133,13 +134,15 @@ namespace AppGestionBudget.Service
             var play2 = AddExpenses(Db.Expenses.First(x => x.id == 4));
             var Voiture = AddExpenses(Db.Expenses.First(x => x.id == 5));
             var xBox = AddExpenses(Db.Expenses.First(x => x.id == 6));
-            
+            var velo = AddExpenses(Db.Expenses.First(x => x.id == 7));
+
             theo.AddExpense(play);
             theo.AddExpense(eat);
             theo.AddExpense(eat2);
             theo.AddExpense(play2);
             theo.AddExpense(Voiture);
             leo.AddExpense(xBox);
+            fred.AddExpense(velo);
             ExpensesWithExel();
             //Sans la Bdd
 
