@@ -1,0 +1,17 @@
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.DataBase.deps.json
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.DataBase.runtimeconfig.json
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.DataBase.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.DataBase.pdb
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.Data.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\bin\Debug\net8.0\AppGestionBudget.Data.pdb
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.csproj.AssemblyReference.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.AssemblyInfoInputs.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.AssemblyInfo.cs
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.csproj.CoreCompileInputs.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.csproj.CopyComplete
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\refint\AppGestionBudget.DataBase.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.pdb
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\AppGestionBudget.DataBase.genruntimeconfig.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.database\obj\Debug\net8.0\ref\AppGestionBudget.DataBase.dll

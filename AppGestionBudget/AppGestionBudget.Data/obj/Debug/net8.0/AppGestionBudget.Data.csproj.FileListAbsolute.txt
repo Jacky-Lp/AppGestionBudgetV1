@@ -1,0 +1,14 @@
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\bin\Debug\net8.0\AppGestionBudget.Data.deps.json
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\bin\Debug\net8.0\AppGestionBudget.Data.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\bin\Debug\net8.0\AppGestionBudget.Data.pdb
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.csproj.AssemblyReference.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.csproj.ResolveComReference.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.AssemblyInfoInputs.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.AssemblyInfo.cs
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.csproj.CoreCompileInputs.cache
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\refint\AppGestionBudget.Data.dll
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\AppGestionBudget.Data.pdb
+D:\Dev\C#\AppGestionBudget\AppGestionBudget.Data\obj\Debug\net8.0\ref\AppGestionBudget.Data.dll
